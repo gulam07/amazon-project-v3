@@ -1,0 +1,22 @@
+.head{
+    background-color: rgb(32, 32, 58);
+    display: flex;
+    align-items: center;
+    height: 40px; 
+    justify-content: space-between;
+}
+.head__nav{
+    color:white
+}
+.head__optionLineOne{
+    font-size: 15px;
+    margin:0 20px;
+}
+.head__side{
+    color:white;
+}
+.head__optionLineTwo{
+    font-size: 20px;
+    margin:0 15px;
+    font-size: 500;
+}
