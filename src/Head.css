@@ -2,7 +2,7 @@
     background-color: rgb(32, 32, 58);
     display: flex;
     align-items: center;
-    height: 40px; 
+    height: 60px; 
     justify-content: space-between;
 }
 .head__nav{
