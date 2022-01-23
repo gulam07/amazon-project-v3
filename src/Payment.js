@@ -22,7 +22,7 @@ function Payment() {
 
     const handleChange = e => {
         setDisabled(event.empty);
-        setError(Event.error ? Event.error.message : "");
+        setError(event.error ? event.error.message : "");
 
     }
 
