@@ -26,3 +26,10 @@
     margin-bottom: -200px;
     mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
 }
+
+@media only screen and(max-width:486px){
+    .home__row{
+        width:100%;
+        flex-direction: column;
+    }
+}

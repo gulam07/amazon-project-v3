@@ -63,3 +63,23 @@
     margin-right: 10px;
 
 }
+
+@media(max-width:1200px){
+    .header__nav{
+        opacity: 0;
+        visibility: hidden;
+        display: block;
+        
+
+    }
+    .header__search{
+        width: 10%;
+    }
+    .header__searchInput{
+        padding: 10px;
+        height: 14px;
+        border: none;
+        width: 1000px;
+        margin-left: 30px;
+    }
+}
